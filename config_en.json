@@ -1,0 +1,1361 @@
+{
+  "HorizonLayout":[
+    {
+      "isSafeArea": false,
+      "showSearch": true,
+      "usePrimaryColor": true,
+      "borderInput": true,
+      "title": "Search nearby services like",
+      "alignment": "centerLeft",
+      "fontWeight": 0,
+      "radius": 9.0,
+      "fontSize": 17.0,
+      "textOpacity": 0.8,
+      "marginLeft": 15.0,
+      "marginRight": 15.0,
+      "marginBottom": 15.0,
+      "marginTop": 20.0,
+      "paddingLeft": 12.0,
+      "paddingRight": 15.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 45.0,
+      "type":"typer",
+      "rotate": [
+        "laundry",
+        "food",
+        "coffee",
+        "gym",
+        "barber",
+        "hotel"
+      ],
+      "layout": "header_search",
+      "preview_data": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "showShortDescription": true,
+      "size": 1.0,
+      "radius": 50.0,
+      "spacing": 11.0,
+      "items": [
+        {
+          "category": "418",
+          "image": "https://i.imgur.com/ffyhztZ.png",
+          "colors": [
+            "#ffffcc02"
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "productType": false,
+          "title": "Hotline",
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "image": "https://i.imgur.com/DI3yb16.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "2620",
+          "title": "Barangay",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://i.imgur.com/7WNHJL6.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "2618",
+          "title": "Homeowner Association",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://i.imgur.com/5PYCEwp.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "2619",
+          "title": "Notary & Legal",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b617a653cb5137325daa2/download/supplier.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "291",
+          "title": "Supplier",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "category": "2631",
+          "image": "https://i.imgur.com/bnU15FV.png",
+          "colors": [
+            "#ffffcc02"
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "343",
+          "image": "https://i.imgur.com/YkQlf3o.png",
+          "colors": [
+            "#ffffcc02"
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b64f67433e9871b69a124/download/pasalubong.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "89",
+          "title": "Pasalubong",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b599cf335c26db5814381/download/professional.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "165",
+          "title": "Professionals",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 0.0,
+      "marginBottom": 5.0,
+      "paddingX": 2.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false,
+      "noBackground": false,
+      "imageBorderStyle": "dot",
+      "imageBorderWidth": 0.5,
+      "imageBorderColor": "ffffcc02",
+      "imageSpacing": 0.0,
+      "labelFontSize": 12.5,
+      "horizontalItem": false,
+      "separateWidth": 12.0,
+      "gradientStyle": false,
+      "columns": 5
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "showShortDescription": true,
+      "size": 1.0,
+      "radius": 50.0,
+      "spacing": 11.0,
+      "items": [
+        {
+          "image": "https://i.imgur.com/A3kRJiH.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "2512",
+          "title": "Food Hotline",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b49fa5c579ce1a0fabd1a/download/home_essentials.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "92",
+          "title": "Home Essentials",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://i.imgur.com/mUzFn0c.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "2616",
+          "title": "Pets",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://i.imgur.com/htxxUjm.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "315",
+          "title": "Water Refilling Station",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://i.imgur.com/ULHih4v.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "312",
+          "title": "Laundry",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b4f150b9d2ba191467a93/download/health_and_wellness.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "37",
+          "title": "Health & Wellness",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b4febc9d606fcb3f57eb8/download/automotive.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "14",
+          "title": "Automotive",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b5d5c72596d74e11cafa6/download/event_needs.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "292",
+          "title": "Event Needs",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b59ca1c46d08c2fe79610/download/inspection_9621340.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "53",
+          "title": "Real Estate",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b5a76de9cadd684207814/download/accomodation.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "166",
+          "title": "Lodgings",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b5add3a1c135b16ba2f99/download/automotive_services.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "97",
+          "title": "Automotive Services",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b5e9d865bc166e11a0650/download/farm_to_table.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "167",
+          "title": "Farm to Table",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b635176e263ca403a64ee/download/group_activities.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "293",
+          "title": "Group Activities",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b636bb1613ccd073142ae/download/recreational.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "90",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://trello.com/1/cards/651d0ab1508e1d6a5fddc719/attachments/653b4c968933ff51250a0bad/download/food.png",
+          "showDescription": false,
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "280",
+          "title": "Food",
+          "isFeatured": false,
+          "colors": [
+            "#ffffcc02"
+          ],
+          "productType": false
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 0.0,
+      "marginBottom": 5.0,
+      "paddingX": 2.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false,
+      "noBackground": false,
+      "imageBorderStyle": "dot",
+      "imageBorderWidth": 0.5,
+      "imageBorderColor": "ffffcc02",
+      "imageSpacing": 0.0,
+      "labelFontSize": 12.5,
+      "horizontalItem": false,
+      "separateWidth": 12.0,
+      "gradientStyle": false,
+      "columns": 5
+    },
+    {
+      "layout":"button",
+      "marginBottom":0,
+      "alignment":"topCenter",
+      "items":[
+        {
+          "marginRight":5,
+          "textFontSize":14,
+          "image":"assets/images/btn_emergency.svg",
+          "useMaxWidth":true,
+          "borderRadius":0,
+          "width":32,
+          "navigator":{
+            "showSubcategory":false,
+            "category":"400",
+            "categoryName": "Emergency"
+          },
+          "height":64,
+          "marginLeft":5
+        },
+        {
+          "marginRight":5,
+          "textFontSize":14,
+          "image":"assets/images/btn_share_location.svg",
+          "useMaxWidth":true,
+          "borderRadius":0,
+          "width":32,
+          "navigator":{
+            "share_location":true,
+            "showSubcategory":false
+          },
+          "height":64,
+          "marginLeft":5
+        }
+      ],
+      "marginTop":0
+    },
+    {
+      "alignment": "topCenter",
+      "marginTop": 0,
+      "marginBottom": 0,
+      "enableBackground": false,
+      "items": [
+        {
+          "image": "assets/images/btn_add_listing.svg",
+          "width": 0.0,
+          "height": 42,
+          "borderRadius": 2,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "textFontSize": 14,
+          "useMaxWidth": false,
+          "navigator": {
+            "showSubcategory": false,
+            "title": "",
+            "enableBackward": true,
+            "enableForward": false,
+            "url": "https://huliph.com/pricing-plan/"
+          }
+        }
+      ],
+      "layout": "button"
+    },
+    {
+      "showCartIcon":true,
+      "imageBoxfit":"cover",
+      "showStockStatus":true,
+      "featured":false,
+      "hideEmptyProductLayout":false,
+      "titleLine":2,
+      "showCountDown":false,
+      "parallax":false,
+      "columns":0,
+      "hideStore":false,
+      "vPadding":0,
+      "showQuantity":false,
+      "showHeart":true,
+      "hMargin":0,
+      "parallaxImageRatio":1.2,
+      "showCartButtonWithQuantity":false,
+      "vMargin":0,
+      "showOnlyImage":false,
+      "onSale":false,
+      "productType":false,
+      "image":"",
+      "productListItemHeight":125,
+      "showCartIconColor":false,
+      "orderby":"date",
+      "hPadding":0,
+      "hidePrice":true,
+      "rows":1,
+      "enableBottomAddToCart":false,
+      "layout":"threeColumn",
+      "enableRating":true,
+      "imageRatio":0.93,
+      "hideTitle":false,
+      "borderRadius":4,
+      "cardDesign":"card",
+      "backgroundRadius":10,
+      "isSnapping":true,
+      "showCartButton":false,
+      "name":"Food and Drinks",
+      "cartIconRadius":9,
+      "enableAutoSliding":false,
+      "category":"280",
+      "hideEmptyProductListRating":false
+    },
+    {
+      "layout":"bannerImage",
+      "design":"default",
+      "fit":"fitHeight",
+      "items":[
+        {
+          "image":"https://i.imgur.com/kyQOYQv.png",
+          "bannerWithProduct":false,
+          "name":"",
+          "showSubcategory":false,
+          "enableBackward":true,
+          "defaultShowProduct":false,
+          "url":"https://huliph.com/pricing-plan/",
+          "products":[],
+          "enableForward":false,
+          "video":""
+        },
+        {
+          "image":"https://i.imgur.com/rzofLh9.png",
+          "showSubcategory":false,
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
+          "products":[],
+          "url_launch":"https://facebook.com/serbyofficial",
+          "video":""
+        },
+        {
+          "image":"https://i.imgur.com/cbjOnn6.png",
+          "showSubcategory":false,
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
+          "products":[],
+          "url_launch":"https://instagram.com/serbyofficial",
+          "video":""
+        },
+        {
+          "image":"https://i.imgur.com/neDyNMq.png",
+          "showSubcategory":false,
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
+          "products":[],
+          "url_launch":"https://youtube.com/@serby_official",
+          "video":""
+        }
+      ],
+      "marginBottom":0.0,
+      "height":0.25,
+      "marginTop":0.0,
+      "radius":6.0,
+      "padding":0.0,
+      "enableParallax":false,
+      "parallaxImageRatio":1.2,
+      "isHorizontal":false,
+      "enableBackground":false,
+      "isSlider":true,
+      "autoPlay":true,
+      "intervalTime":5,
+      "showNumber":false,
+      "isBlur":false,
+      "showBackground":false,
+      "upHeight":0.0,
+      "isSoundOn":false,
+      "enableTimeIndicator":true,
+      "autoPlayVideo":false,
+      "doubleTapToFullScreen":false,
+      "pageIndicatorType":"line",
+      "parallax":false
+    },
+    {
+      "showCartIcon":true,
+      "imageBoxfit":"contain",
+      "showStockStatus":true,
+      "featured":false,
+      "hideEmptyProductLayout":false,
+      "titleLine":2,
+      "showCountDown":false,
+      "parallax":false,
+      "columns":0,
+      "hideStore":false,
+      "vPadding":0,
+      "showQuantity":false,
+      "showHeart":true,
+      "hMargin":0,
+      "parallaxImageRatio":1.2,
+      "showCartButtonWithQuantity":false,
+      "vMargin":0,
+      "showOnlyImage":false,
+      "onSale":false,
+      "productType":false,
+      "image":"",
+      "productListItemHeight":125,
+      "showCartIconColor":false,
+      "orderby":"date",
+      "hPadding":0,
+      "hidePrice":true,
+      "rows":1,
+      "enableBottomAddToCart":false,
+      "layout":"threeColumn",
+      "enableRating":true,
+      "imageRatio":0.93,
+      "hideTitle":false,
+      "borderRadius":4,
+      "cardDesign":"card",
+      "backgroundRadius":10,
+      "isSnapping":true,
+      "showCartButton":false,
+      "name":"Nearby Listings",
+      "cartIconRadius":9,
+      "enableAutoSliding":false,
+      "hideEmptyProductListRating":false
+    },
+    {
+      "layout": "spacer",
+      "height": 10.0,
+      "backgroundColor": null,
+      "useLightColor": false
+    },
+    {
+      "layout":"bannerImage",
+      "design":"static",
+      "fit":"fitHeight",
+      "marginLeft":0.0,
+      "items":[
+        {
+          "image":"https://i.imgur.com/K3y2JBf.gif",
+          "padding":0.0,
+          "url_launch":"https://serby.ph/who-we-are-serby/",
+          "bannerWithProduct":false,
+          "showSubcategory":false,
+          "defaultShowProduct":false,
+          "products":[],
+          "radius":0.0,
+          "video":""
+        }
+      ],
+      "marginBottom":0.0,
+      "height":0.3,
+      "marginRight":0.0,
+      "marginTop":0.0,
+      "enableParallax":false,
+      "parallaxImageRatio":1.2,
+      "isHorizontal":false,
+      "enableBackground":false,
+      "parallax":false
+    },
+    {
+      "layout": "spacer",
+      "height": 20.0,
+      "backgroundColor": null,
+      "useLightColor": false
+    },
+    {
+      "rotate":[],
+      "usePrimaryColor":true,
+      "paddingRight":4,
+      "minWidth":0,
+      "title":"Want to add your business info?",
+      "type":"static",
+      "backgroundGradientColor":[],
+      "marginLeft":20,
+      "marginRight":5,
+      "layout":"header_text",
+      "paddingBottom":0,
+      "showSearch":false,
+      "borderInput":false,
+      "textOpacity":1,
+      "fontSize":18,
+      "marginBottom":0,
+      "paddingTop":0,
+      "isSafeArea":true,
+      "alignment":"centerLeft",
+      "paddingLeft":0,
+      "fontWeight":300,
+      "marginTop":10,
+      "height":26.7
+    },
+    {
+      "rotate":[],
+      "usePrimaryColor":true,
+      "paddingRight":15,
+      "minWidth":0,
+      "title":"Be part of verified businesses listings that are being searched for daily on our directory.",
+      "type":"static",
+      "backgroundGradientColor":[],
+      "marginLeft":0,
+      "marginRight":0,
+      "layout":"header_text",
+      "paddingBottom":0,
+      "showSearch":false,
+      "borderInput":false,
+      "textOpacity":1,
+      "fontSize":14,
+      "marginBottom":0,
+      "paddingTop":0,
+      "isSafeArea":false,
+      "alignment":"center",
+      "paddingLeft":23,
+      "fontWeight":100,
+      "marginTop":0,
+      "height":46
+    },
+    {
+      "layout":"button",
+      "marginBottom":2,
+      "alignment":"topCenter",
+      "items":[
+        {
+          "marginRight":0,
+          "textFontSize":15,
+          "backgroundColor":"ffdb1e29",
+          "useMaxWidth":false,
+          "borderRadius":6,
+          "width":235,
+          "navigator":{
+            "url": "https://huliph.com/pricing-plan/",
+            "fullscreen":true,
+            "showSubcategory":false,
+            "title":"",
+            "enableBackward":true,
+            "enableForward":false
+          },
+          "text":"Promote your business now",
+          "textColor":"fff8f8f8",
+          "height":36,
+          "marginLeft":15
+        }
+      ],
+      "marginTop":7
+    },
+    {
+      "rotate":[],
+      "usePrimaryColor":true,
+      "paddingRight":0,
+      "minWidth":0,
+      "title":"or call <a href=tel:+639062535135>+639062535135</a>",
+      "type":"static",
+      "backgroundGradientColor":[],
+      "marginLeft":22,
+      "marginRight":0,
+      "layout":"header_text",
+      "paddingBottom":0,
+      "showSearch":false,
+      "borderInput":false,
+      "textOpacity":1,
+      "fontSize":15,
+      "marginBottom":20,
+      "paddingTop":0,
+      "isSafeArea":false,
+      "alignment":"center",
+      "paddingLeft":5,
+      "fontWeight":400,
+      "marginTop":0,
+      "height":26.7
+    },
+    {
+      "layout": "spacer",
+      "height": 20.0,
+      "backgroundColor": null,
+      "useLightColor": false
+    },
+    {
+      "layout": "bannerImage",
+      "design": "default",
+      "fit": "fill",
+      "items": [
+        {
+          "image": "https://i.imgur.com/ZVB5KpQ.png",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [
+          ],
+          "name": "",
+          "category": "-1",
+          "video": ""
+        }
+      ],
+      "marginBottom": 0.0,
+      "height": 0.3,
+      "marginTop": 0.0,
+      "radius": 0.0,
+      "padding": 0.0,
+      "enableParallax": false,
+      "parallaxImageRatio": 1.2,
+      "isHorizontal": false,
+      "enableBackground": false,
+      "isSlider": false,
+      "autoPlay": true,
+      "intervalTime": 10,
+      "showNumber": false,
+      "isBlur": false,
+      "showBackground": false,
+      "upHeight": 0.0,
+      "isSoundOn": false,
+      "enableTimeIndicator": true,
+      "autoPlayVideo": false,
+      "doubleTapToFullScreen": false,
+      "pageIndicatorType": "line",
+      "parallax": false
+    }
+  ],
+  "Setting":{
+    "TabBarConfig":{
+      "boxShadow":{
+        "spreadRadius":10,
+        "colorOpacity":0.1,
+        "blurRadius":10,
+        "x":0,
+        "y":0
+      },
+      "enableOnTop":false,
+      "color":null,
+      "radiusTopLeft":0,
+      "paddingRight":0,
+      "radiusTopRight":0,
+      "TabBarIndicator":{
+        "strokeWidth":2,
+        "color":null,
+        "horizontalPadding":1,
+        "topRightRadius":0,
+        "tabPosition":"top",
+        "bottomRightRadius":0,
+        "bottomLeftRadius":0,
+        "topLeftRadius":0,
+        "paintingStyle":"fill",
+        "distanceFromCenter":0,
+        "radius":34,
+        "verticalPadding":0,
+        "height":1
+      },
+      "showMinimize":false,
+      "marginRight":0,
+      "bottomBarStyle": "slideEffect",
+      "enableDivider":true,
+      "paddingBottom":0,
+      "indicatorStyle":"material",
+      "enable":true,
+      "radiusBottomRight":0,
+      "iconSize":25,
+      "showFloatingClip":false,
+      "paddingTop":0,
+      "isSafeArea":true,
+      "TabBarFloating":{
+        "elevation":4,
+        "color":null,
+        "width":50,
+        "floatingType":"circle",
+        "location":"endDocked",
+        "isCoverMode":false,
+        "position":5,
+        "notchMargin":0,
+        "radius":50,
+        "height":50
+      },
+      "showFloating":false,
+      "colorActiveIcon":"ffffe82d",
+      "colorCart":null,
+      "radiusBottomLeft":0,
+      "marginLeft":0,
+      "colorIcon":"ff7a7b7f",
+      "marginBottom":0,
+      "paddingLeft":0,
+      "marginTop":0
+    },
+    "FontFamily":"Roboto",
+    "FontHeader":"Poppins",
+    "ProductDetail":"simpleType",
+    "MainColor":"ffffcc02",
+    "ProductListLayout":"listTile",
+    "SmartEngagementBanner": {
+      "popup": {
+        "closePosition": "topRight",
+        "data": {
+          "parallax": false,
+          "enableParallax": false,
+          "isHorizontal": false,
+          "marginLeft": 0,
+          "layout": "bannerImage",
+          "fit": "fitHeight",
+          "marginRight": 0,
+          "parallaxImageRatio": 1.2,
+          "design": "static",
+          "marginBottom": 0,
+          "items": [
+            {
+              "image": "https://i.imgur.com/i0TsfFZ.png",
+              "padding": 5,
+              "bannerWithProduct": false,
+              "showSubcategory": false,
+              "video": "",
+              "radius": 0,
+              "category": "97",
+              "defaultShowProduct": false,
+              "products": [
+              ]
+            }
+          ],
+          "marginTop": 33,
+          "key": "ewg1akvkuq",
+          "height": 0.2
+        },
+        "enable": false,
+        "alwaysShowUponOpen": true
+      },
+      "flexible": {
+        "canClose": false,
+        "data": {
+          "alignment": "topCenter",
+          "marginTop": 0,
+          "marginBottom": 0,
+          "enableBackground": false,
+          "items": [
+            {
+              "image": "https://i.imgur.com/UOV0Am4.gif",
+              "width": 199.00000000000003,
+              "height": 200,
+              "borderRadius": 0,
+              "marginLeft": 0,
+              "marginRight": 0,
+              "textFontSize": 14,
+              "useMaxWidth": true,
+              "navigator": {
+                "showSubcategory": false,
+                "title": "",
+                "enableBackward": true,
+                "enableForward": false,
+                "url": "https://huliph.com/pricing-plan/"
+              }
+            }
+          ],
+          "layout": "button",
+          "key": "gtotRMGLFc"
+        },
+        "enable": true,
+        "width": 140,
+        "canDrag": true,
+        "height": 142
+      },
+      "sticky": {
+        "enable": false
+      }
+    }
+  },
+  "TabBar":[
+    {
+      "layout":"home",
+      "fontFamily":"CupertinoIcons",
+      "visible":true,
+      "fullscreen":false,
+      "pos":100,
+      "defaultTab":false,
+      "icon":"home",
+      "label":"Home",
+      "key":"at9jjauxpl"
+    },
+    {
+      "layout":"wishlist",
+      "fontFamily":"CupertinoIcons",
+      "visible":false,
+      "fullscreen":false,
+      "pos":200,
+      "defaultTab":false,
+      "icon":"bookmark",
+      "label":"Collections",
+      "key":"at9jjauxpl"
+    },
+    {
+      "layout":"category",
+      "parallaxImageRatio":1.2,
+      "fontFamily":"CupertinoIcons",
+      "visible":true,
+      "fullscreen":false,
+      "pos":300,
+      "parallax":false,
+      "icon":"square_list",
+      "label":"Categories",
+      "categoryLayout":"card",
+      "key":"at9jjauxpl"
+    },
+    {
+      "layout":"search",
+      "fontFamily":"CupertinoIcons",
+      "visible":false,
+      "fullscreen":false,
+      "pos":400,
+      "defaultTab":false,
+      "icon":"search",
+      "label":"Search",
+      "key":"at9jjauxpl"
+    },
+    {
+      "layout":"map",
+      "fontFamily":"CupertinoIcons",
+      "fullscreen":true,
+      "pos":500,
+      "defaultTab":false,
+      "icon":"map",
+      "label":"Map",
+      "key":"at9jjauxpl"
+    },
+    {
+      "key": "eBinCttxKF",
+      "layout": "profile",
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "label": "Account",
+      "pos": 600,
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": false,
+      "visible":true,
+      "settings": [
+        "wishlist",
+        "notifications",
+        "language",
+        "darkTheme",
+        "rating",
+        "post-vZjOylnZkv",
+        "post-ScsAbxigxR"
+      ],
+      "subGeneralSetting": {
+        "post-ScsAbxigxR": {
+          "icon": "info",
+          "pageId": 8090,
+          "title": "About Us",
+          "iconFontFamily": "CupertinoIcons"
+        },
+        "post-vZjOylnZkv": {
+          "icon": "lock_shield",
+          "pageId": 8074,
+          "title": "Privacy Policy",
+          "iconFontFamily": "CupertinoIcons"
+        }
+      },
+      "showBackground": false
+    },
+    {
+      "layout":"dynamic",
+      "configs":{
+        "HorizonLayout":[
+          {
+            "rotate":[],
+            "usePrimaryColor":true,
+            "paddingRight":15,
+            "minWidth":0,
+            "title":"Search",
+            "type":"static",
+            "backgroundGradientColor":[],
+            "marginLeft":0,
+            "marginRight":0,
+            "layout":"header_text",
+            "paddingBottom":0,
+            "pos":100,
+            "showSearch":false,
+            "borderInput":false,
+            "textOpacity":1,
+            "fontSize":20,
+            "marginBottom":15,
+            "paddingTop":0,
+            "isSafeArea":false,
+            "alignment":"center",
+            "paddingLeft":5,
+            "fontWeight":400,
+            "marginTop":15,
+            "height":44
+          },
+          {
+            "rotate":[],
+            "usePrimaryColor":true,
+            "paddingRight":15,
+            "minWidth":0,
+            "type":"static",
+            "backgroundGradientColor":[],
+            "marginLeft":0,
+            "marginRight":0,
+            "layout":"header_text",
+            "paddingBottom":0,
+            "pos":115,
+            "showSearch":true,
+            "borderInput":false,
+            "textOpacity":1,
+            "fontSize":20,
+            "marginBottom":15,
+            "paddingTop":0,
+            "isSafeArea":false,
+            "alignment":"centerLeft",
+            "paddingLeft":5,
+            "fontWeight":400,
+            "marginTop":15,
+            "height":44
+          }
+        ]
+      },
+      "fontFamily":"CupertinoIcons",
+      "fullscreen":false,
+      "pos":700,
+      "defaultTab":false,
+      "icon":"search",
+      "label":"Hanap",
+      "groupLayout":true,
+      "menuLabel":"Hanap",
+      "key":"at9jjauxpl"
+    },
+    {
+      "layout":"dynamic",
+      "configs":{
+        "HorizonLayout":[
+          {
+            "layout":"divider",
+            "thickness":1,
+            "indent":0,
+            "pos":34,
+            "endIndent":0
+          },
+          {
+            "rotate":[],
+            "usePrimaryColor":true,
+            "paddingRight":0,
+            "minWidth":0,
+            "title":"Map ",
+            "type":"static",
+            "backgroundGradientColor":[],
+            "marginLeft":0,
+            "marginRight":0,
+            "layout":"header_text",
+            "paddingBottom":0,
+            "pos":100,
+            "showSearch":false,
+            "borderInput":false,
+            "textOpacity":1,
+            "fontSize":20,
+            "marginBottom":0,
+            "paddingTop":0,
+            "isSafeArea":true,
+            "alignment":"center",
+            "paddingLeft":0,
+            "fontWeight":400,
+            "marginTop":0,
+            "height":44
+          }
+        ]
+      },
+      "fontFamily":"CupertinoIcons",
+      "fullscreen":false,
+      "pos":800,
+      "defaultTab":false,
+      "icon":"map",
+      "label":"Mapa",
+      "groupLayout":true,
+      "menuLabel":"Mapa",
+      "key":"at9jjauxpl"
+    },
+    {
+      "layout":"scrollable",
+      "fontFamily":"MaterialIcons",
+      "visible":false,
+      "fullscreen":false,
+      "pos":900,
+      "icon":"center_focus_strong_rounded",
+      "label":"Target",
+      "key":"at9jjauxpl"
+    }
+  ],
+  "Drawer": {
+    "filter": 0.5,
+    "logoConfig": {
+      "width": 180,
+      "height": 50,
+      "marginLeft": 50,
+      "marginRight": 40,
+      "marginTop": 40,
+      "marginBottom": 0,
+      "boxFit": "fitWidth"
+    },
+    "enable": false,
+    "logo": "https://i.imgur.com/80HuKRk.png",
+    "subDrawerItem": {
+      "web-AqRxAIrKnq": {
+        "webUrl": "https://huliph.com/listing-author/?dashboard=listings",
+        "webViewMode": true,
+        "requiredLogin": false,
+        "enableForward": true,
+        "enableBackward": true,
+        "enableClose": true,
+        "script": "",
+        "icon": "edit_location_alt_sharp",
+        "iconFontFamily": "MaterialIcons",
+        "title": "Edit Listing Spot"
+      }
+    },
+    "safeArea": false,
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "categories",
+        "show": false
+      },
+      {
+        "type": "web-AqRxAIrKnq",
+        "show": false
+      },
+      {
+        "type": "cart",
+        "show": false
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "type": "profile",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": false
+      }
+    ],
+    "key": "avpwXfLWul"
+  },
+  "AppBar": {
+    "showOnScreens": [
+      "home"
+    ],
+    "enable": true,
+    "snap": true,
+    "pinned": false,
+    "floating": true,
+    "elevation": 0.0,
+    "alwaysShowAppBar": false,
+    "items": [
+      {
+        "type": "logo",
+        "pos": 100,
+        "textOpacity": 0.5,
+        "alignment": "center",
+        "fontSize": 16.0,
+        "fontFamily": "CupertinoIcons",
+        "fontWeight": "400",
+        "icon": "person",
+        "iconSize": 24.0,
+        "size": 44.0,
+        "radius": 0,
+        "marginLeft": 16.0,
+        "marginRight": 0,
+        "marginTop": 16.0,
+        "marginBottom": 24.0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 16.0,
+        "paddingBottom": 16.0,
+        "imageBoxFit": "contain",
+        "width": 168.0,
+        "avatarRadius": 100.0,
+        "spacingText": 3.0,
+        "headerTextOpacity": 0.5,
+        "headerFontSize": 16.0,
+        "headerFontWeight": "400"
+      },
+      {
+        "type": "space",
+        "action": "none",
+        "pos": 100,
+        "textOpacity": 0.5,
+        "alignment": "center",
+        "fontSize": 16.0,
+        "fontFamily": "CupertinoIcons",
+        "fontWeight": "400",
+        "icon": "person",
+        "iconSize": 24.0,
+        "size": 56.0,
+        "radius": 0,
+        "marginLeft": 0,
+        "marginRight": 0,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "isCustomSpace": true,
+        "avatarRadius": 100.0,
+        "spacingText": 3.0,
+        "headerTextOpacity": 0.5,
+        "headerFontSize": 16.0,
+        "headerFontWeight": "400"
+      },
+      {
+        "type": "icon",
+        "action": "wishlist",
+        "pos": 100,
+        "textOpacity": 0.5,
+        "alignment": "center",
+        "fontSize": 16.0,
+        "fontFamily": "CupertinoIcons",
+        "fontWeight": "400",
+        "icon": "bookmark",
+        "iconSize": 24.0,
+        "size": 44.0,
+        "radius": 0,
+        "marginLeft": 0.0,
+        "marginRight": 15.0,
+        "marginTop": 8.0,
+        "marginBottom": 0.0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 8.0,
+        "avatarRadius": 100.0,
+        "spacingText": 3.0,
+        "headerTextOpacity": 0.5,
+        "headerFontSize": 16.0,
+        "headerFontWeight": "400"
+      }
+    ],
+    "expandedItems": []
+  }
+}
