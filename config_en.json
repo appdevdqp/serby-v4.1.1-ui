@@ -5,7 +5,7 @@
       "showSearch": true,
       "usePrimaryColor": true,
       "borderInput": true,
-      "title": "Search nearby services like",
+      "title": "Search nearby",
       "alignment": "centerLeft",
       "fontWeight": 0,
       "radius": 9.0,
@@ -23,11 +23,13 @@
       "type":"typer",
       "rotate": [
         "laundry",
-        "food",
-        "coffee",
-        "gym",
-        "barber",
-        "hotel"
+        "restaurants",
+        "coffee shops",
+        "gyms",
+        "barbers",
+        "hotels",
+        "vets",
+        "car repair"
       ],
       "layout": "header_search",
       "preview_data": true
